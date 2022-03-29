@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heinene (Артём)
 - 👀 МГТУ им.Баумана "Информационная безопасность" 3 курс
-- Python, QT, C++, API
+- Python, QT, C++, API, Java
 - Telegram: @mishartem
 
 <!---
